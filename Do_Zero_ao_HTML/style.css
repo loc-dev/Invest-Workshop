@@ -1,0 +1,22 @@
+html {
+    font-family: sans-serif;
+}
+
+h1, p {
+    color: dodgerblue;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.header {
+    background-color: dimgrey;
+    padding: 0.5rem 1rem;
+    margin-bottom: 2rem;
+}
+
+.titulo-colorido {
+    color: tomato;  
+}
