@@ -1,4 +1,4 @@
-![Divulgação do Workshop Do Zero ao HTMl](/static/banner.jpg)  
+![Divulgação do Workshop Do Zero ao HTMl](static/banner.png)  
 
 # 📎 Workshop - Do Zero ao HTML
 
