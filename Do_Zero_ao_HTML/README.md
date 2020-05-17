@@ -16,6 +16,6 @@ O palestrante **[Ricardo Sanches](https://github.com/rvsanches)** foi convidado 
 - Um pouco sobre a Folha de Estilo em Cascata (CSS)
 - Conhecendo o Bootstrap e suas funcionalidades
 
-E inúmeros outros pontos sendo especificado pelos ouvintes durante o Workshop, fazendo um grande elevantamento sobre  como inicar a carreira de desenvolvimento web? Como é realizado a prototipação de layouts ? e entre outras questões.
+E inúmeros outros pontos sendo especificado pelos ouvintes durante o Workshop, fazendo uma grande observação sobre: Como inicar a carreira de desenvolvimento web ? Como é realizado a prototipação de layouts ? e entre outras questões.
 
 O Workshop - Do Zero ao HTML, já foi encerrado no dia 14 de maio de 2020.
